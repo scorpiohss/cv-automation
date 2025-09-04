@@ -1,0 +1,14 @@
+{
+  "role": "CFO",
+  "company": "YourSafe",
+  "period": "2023",
+  "keywords": ["CFO", "SaaS", "Cybersecurity", "Fundraising", "Scale-up"],
+  "industries": ["Cybersecurity", "SaaS", "Technology"],
+  "achievements": {
+    "revenue_target": "€10M ARR",
+    "funding_raised": "€2M",
+    "cost_reduction": "25%",
+    "key_metric": "40% improved cash visibility"
+  },
+  "company_stage": "Series A preparation"
+}

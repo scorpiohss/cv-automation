@@ -1,0 +1,26 @@
+{
+  "categories": {
+    "FUNDRAISING": [
+      {
+        "bullet": "Secured €2M bridge funding through investor negotiations",
+        "metrics": ["€2M"],
+        "keywords": ["funding", "investor", "negotiations", "capital"],
+        "score_weight": 1.8
+      }
+    ],
+    "FINANCIAL_OPERATIONS": [
+      {
+        "bullet": "Led financial operations for cybersecurity scale-up targeting €10M ARR",
+        "metrics": ["€10M"],
+        "keywords": ["CFO", "scale-up", "ARR", "cybersecurity"],
+        "score_weight": 1.5
+      },
+      {
+        "bullet": "Reduced monthly burn rate by 25% through strategic cost optimization",
+        "metrics": ["25%"],
+        "keywords": ["burn rate", "cost", "optimization"],
+        "score_weight": 1.4
+      }
+    ]
+  }
+}
