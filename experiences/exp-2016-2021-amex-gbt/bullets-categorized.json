@@ -1,0 +1,34 @@
+{
+  "categories": {
+    "P&L_VALUE": [
+      {
+        "bullet": "Managed €1bn P&L as Market CFO during PE ownership",
+        "metrics": ["€1bn"],
+        "keywords": ["P&L", "CFO", "PE", "revenue"],
+        "score_weight": 1.5
+      },
+      {
+        "bullet": "Delivered €6m synergies through post-merger integration",
+        "metrics": ["€6m"],
+        "keywords": ["synergies", "integration", "cost savings"],
+        "score_weight": 1.4
+      }
+    ],
+    "M&A_TRANSACTIONS": [
+      {
+        "bullet": "Led financial separation in €4bn carve-out from American Express",
+        "metrics": ["€4bn"],
+        "keywords": ["carve-out", "separation", "M&A"],
+        "score_weight": 1.8
+      }
+    ],
+    "TRANSFORMATION": [
+      {
+        "bullet": "Established Robotic Process Automation reducing manual tasks by 40%",
+        "metrics": ["40%"],
+        "keywords": ["RPA", "automation", "efficiency"],
+        "score_weight": 1.3
+      }
+    ]
+  }
+}
