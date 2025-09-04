@@ -1,0 +1,20 @@
+﻿{
+  "categories": {
+    "OPERATIONAL_EXCELLENCE": [
+      {
+        "bullet": "Centralized EMEA revenue operations, cutting MRR bill-run errors by 60%",
+        "metrics": ["60%"],
+        "keywords": ["revenue operations", "MRR", "centralization"],
+        "score_weight": 1.4
+      }
+    ],
+    "P&L_MANAGEMENT": [
+      {
+        "bullet": "Oversaw â‚¬250m+ recurring revenues across multiple markets",
+        "metrics": ["â‚¬250m+"],
+        "keywords": ["revenue", "P&L", "recurring"],
+        "score_weight": 1.5
+      }
+    ]
+  }
+}

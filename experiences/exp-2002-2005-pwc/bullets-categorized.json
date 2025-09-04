@@ -1,0 +1,12 @@
+﻿{
+  "categories": {
+    "FOUNDATION": [
+      {
+        "bullet": "Big-4 trained: IFRS, US GAAP, audit and tax advisory for PE-backed clients",
+        "metrics": [],
+        "keywords": ["Big-4", "PwC", "IFRS", "US GAAP"],
+        "score_weight": 1.2
+      }
+    ]
+  }
+}

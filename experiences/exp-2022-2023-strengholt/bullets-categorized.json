@@ -1,0 +1,28 @@
+﻿{
+  "categories": {
+    "M&A_TRANSACTIONS": [
+      {
+        "bullet": "Led finance workstream in â‚¬45m sale to Venipak, securing 8.2Ã— EBITDA multiple",
+        "metrics": ["â‚¬45m", "8.2x"],
+        "keywords": ["M&A", "sale", "exit", "EBITDA", "multiple"],
+        "score_weight": 1.8
+      }
+    ],
+    "CASH_MANAGEMENT": [
+      {
+        "bullet": "Stabilised cash cycle: built 13-week daily cash-forecast model, cut net working-capital days by 18",
+        "metrics": ["13-week", "18 days"],
+        "keywords": ["cash", "working capital", "forecast", "liquidity"],
+        "score_weight": 1.5
+      }
+    ],
+    "OPERATIONAL_FINANCE": [
+      {
+        "bullet": "Recovered â‚¬0.5m Amazon chargebacks through dispute-resolution overhaul",
+        "metrics": ["â‚¬0.5m"],
+        "keywords": ["recovery", "Amazon", "dispute", "process"],
+        "score_weight": 1.3
+      }
+    ]
+  }
+}
