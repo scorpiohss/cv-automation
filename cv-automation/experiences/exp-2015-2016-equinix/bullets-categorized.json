@@ -1,0 +1,34 @@
+﻿{
+  "categories": {
+    "OPERATIONAL_EXCELLENCE": [
+      {
+        "bullet": "Centralized EMEA revenue operations, cutting MRR bill-run errors by 60%",
+        "metrics": ["60%"],
+        "keywords": ["revenue operations", "MRR", "centralization", "EMEA"],
+        "score_weight": 1.4
+      },
+      {
+        "bullet": "Built automated billing validation reducing manual checks by 70%",
+        "metrics": ["70%"],
+        "keywords": ["automation", "billing", "validation", "efficiency"],
+        "score_weight": 1.3
+      }
+    ],
+    "P&L_MANAGEMENT": [
+      {
+        "bullet": "Oversaw â‚¬250m+ recurring revenues across multiple markets",
+        "metrics": ["â‚¬250m+"],
+        "keywords": ["revenue", "P&L", "recurring", "scale"],
+        "score_weight": 1.5
+      }
+    ],
+    "COMPLIANCE": [
+      {
+        "bullet": "Standardized revenue recognition policies across 15 countries",
+        "metrics": ["15"],
+        "keywords": ["revenue recognition", "compliance", "standardization"],
+        "score_weight": 1.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+﻿{
+  "categories": {
+    "FOUNDATION": [
+      {
+        "bullet": "Big-4 trained: IFRS, US GAAP, audit and tax advisory for PE-backed clients",
+        "metrics": [],
+        "keywords": ["Big-4", "PwC", "IFRS", "US GAAP", "audit", "PE"],
+        "score_weight": 1.2
+      }
+    ],
+    "TAX_STRUCTURING": [
+      {
+        "bullet": "Led tax structuring for â‚¬100m+ cross-border M&A transactions",
+        "metrics": ["â‚¬100m+"],
+        "keywords": ["tax", "M&A", "cross-border", "structuring"],
+        "score_weight": 1.3
+      }
+    ]
+  }
+}
